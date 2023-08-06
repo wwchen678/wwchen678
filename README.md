@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI writing 
 - 🌱 I’m currently learning midjourney 
 - 💞️ I’m looking to collaborate on screen play writing 
-- 📫 How to reach me wenzi841@gmail.com
+- 📫 How to reach me wenzi8141@gmail.com
 
 <!---
 wwchen678/wwchen678 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
